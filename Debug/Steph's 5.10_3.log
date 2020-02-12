@@ -1,0 +1,5 @@
+﻿  Steph's 5.10_3.cpp
+C:\Users\Eduardo\source\repos\Steph's\Steph's 5.10_3\Steph's 5.10_3\Steph's 5.10_3.cpp(26,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eduardo\source\repos\Steph's\Steph's 5.10_3\Steph's 5.10_3\Steph's 5.10_3.cpp(27,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eduardo\source\repos\Steph's\Steph's 5.10_3\Steph's 5.10_3\Steph's 5.10_3.cpp(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Steph's 5.10_3.vcxproj -> C:\Users\Eduardo\source\repos\Steph's\Steph's 5.10_3\Debug\Steph's 5.10_3.exe
